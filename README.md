@@ -1,0 +1,2 @@
+# PacManAI
+AI for PacMan
