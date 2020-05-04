@@ -1,0 +1,318 @@
+Starting on 11-6 at 16:06:19
+
+Question q1
+===========
+
+*** PASS: test_cases\q1\1-tinygrid.test
+*** PASS: test_cases\q1\2-tinygrid-noisy.test
+*** PASS: test_cases\q1\3-bridge.test
+*** PASS: test_cases\q1\4-discountgrid.test
+
+### Question q1: 6/6 ###
+
+
+Question q2
+===========
+
+*** PASS: test_cases\q2\1-bridge-grid.test
+
+### Question q2: 1/1 ###
+
+
+Question q3
+===========
+
+*** PASS: test_cases\q3\1-question-3.1.test
+*** PASS: test_cases\q3\2-question-3.2.test
+*** PASS: test_cases\q3\3-question-3.3.test
+*** PASS: test_cases\q3\4-question-3.4.test
+*** PASS: test_cases\q3\5-question-3.5.test
+
+### Question q3: 5/5 ###
+
+
+Question q4
+===========
+
+*** PASS: test_cases\q4\1-tinygrid.test
+*** PASS: test_cases\q4\2-tinygrid-noisy.test
+*** PASS: test_cases\q4\3-bridge.test
+*** PASS: test_cases\q4\4-discountgrid.test
+
+### Question q4: 5/5 ###
+
+
+Question q5
+===========
+
+*** PASS: test_cases\q5\1-tinygrid.test
+*** PASS: test_cases\q5\2-tinygrid-noisy.test
+*** PASS: test_cases\q5\3-bridge.test
+*** PASS: test_cases\q5\4-discountgrid.test
+
+### Question q5: 3/3 ###
+
+
+Question q6
+===========
+
+*** PASS: test_cases\q6\grade-agent.test
+
+### Question q6: 1/1 ###
+
+
+Question q7
+===========
+
+Beginning 2000 episodes of Training
+Reinforcement Learning Status:
+	Completed 100 out of 2000 training episodes
+	Average Rewards over all training: -511.80
+	Average Rewards for last 100 episodes: -511.80
+	Episode took 1.43 seconds
+Reinforcement Learning Status:
+	Completed 200 out of 2000 training episodes
+	Average Rewards over all training: -512.59
+	Average Rewards for last 100 episodes: -513.38
+	Episode took 1.85 seconds
+Reinforcement Learning Status:
+	Completed 300 out of 2000 training episodes
+	Average Rewards over all training: -479.62
+	Average Rewards for last 100 episodes: -413.68
+	Episode took 2.26 seconds
+Reinforcement Learning Status:
+	Completed 400 out of 2000 training episodes
+	Average Rewards over all training: -457.79
+	Average Rewards for last 100 episodes: -392.31
+	Episode took 2.17 seconds
+Reinforcement Learning Status:
+	Completed 500 out of 2000 training episodes
+	Average Rewards over all training: -421.88
+	Average Rewards for last 100 episodes: -278.25
+	Episode took 2.11 seconds
+Reinforcement Learning Status:
+	Completed 600 out of 2000 training episodes
+	Average Rewards over all training: -405.12
+	Average Rewards for last 100 episodes: -321.32
+	Episode took 2.37 seconds
+Reinforcement Learning Status:
+	Completed 700 out of 2000 training episodes
+	Average Rewards over all training: -382.81
+	Average Rewards for last 100 episodes: -248.91
+	Episode took 2.28 seconds
+Reinforcement Learning Status:
+	Completed 800 out of 2000 training episodes
+	Average Rewards over all training: -358.56
+	Average Rewards for last 100 episodes: -188.85
+	Episode took 2.28 seconds
+Reinforcement Learning Status:
+	Completed 900 out of 2000 training episodes
+	Average Rewards over all training: -334.28
+	Average Rewards for last 100 episodes: -140.06
+	Episode took 2.56 seconds
+Reinforcement Learning Status:
+	Completed 1000 out of 2000 training episodes
+	Average Rewards over all training: -298.45
+	Average Rewards for last 100 episodes: 24.08
+	Episode took 2.31 seconds
+Reinforcement Learning Status:
+	Completed 1100 out of 2000 training episodes
+	Average Rewards over all training: -272.89
+	Average Rewards for last 100 episodes: -17.34
+	Episode took 2.37 seconds
+Reinforcement Learning Status:
+	Completed 1200 out of 2000 training episodes
+	Average Rewards over all training: -233.70
+	Average Rewards for last 100 episodes: 197.45
+	Episode took 2.22 seconds
+Reinforcement Learning Status:
+	Completed 1300 out of 2000 training episodes
+	Average Rewards over all training: -197.51
+	Average Rewards for last 100 episodes: 236.72
+	Episode took 2.36 seconds
+Reinforcement Learning Status:
+	Completed 1400 out of 2000 training episodes
+	Average Rewards over all training: -172.22
+	Average Rewards for last 100 episodes: 156.55
+	Episode took 2.27 seconds
+Reinforcement Learning Status:
+	Completed 1500 out of 2000 training episodes
+	Average Rewards over all training: -146.35
+	Average Rewards for last 100 episodes: 215.78
+	Episode took 2.39 seconds
+Reinforcement Learning Status:
+	Completed 1600 out of 2000 training episodes
+	Average Rewards over all training: -122.40
+	Average Rewards for last 100 episodes: 236.88
+	Episode took 2.31 seconds
+Reinforcement Learning Status:
+	Completed 1700 out of 2000 training episodes
+	Average Rewards over all training: -101.31
+	Average Rewards for last 100 episodes: 236.09
+	Episode took 2.42 seconds
+Reinforcement Learning Status:
+	Completed 1800 out of 2000 training episodes
+	Average Rewards over all training: -85.89
+	Average Rewards for last 100 episodes: 176.37
+	Episode took 2.31 seconds
+Reinforcement Learning Status:
+	Completed 1900 out of 2000 training episodes
+	Average Rewards over all training: -73.67
+	Average Rewards for last 100 episodes: 146.26
+	Episode took 2.27 seconds
+Reinforcement Learning Status:
+	Completed 2000 out of 2000 training episodes
+	Average Rewards over all training: -57.13
+	Average Rewards for last 100 episodes: 257.09
+	Episode took 2.30 seconds
+Training Done (turning off epsilon and alpha)
+---------------------------------------------
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 499
+Pacman emerges victorious! Score: 495
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Pacman emerges victorious! Score: 503
+Reinforcement Learning Status:
+	Completed 100 test episodes
+	Average Rewards over testing: 500.04
+	Average Rewards for last 100 episodes: 500.04
+	Episode took 2.29 seconds
+Average Score: 500.04
+Scores:        499.0, 503.0, 503.0, 503.0, 503.0, 503.0, 503.0, 503.0, 503.0, 503.0, 503.0, 499.0, 499.0, 503.0, 495.0, 503.0, 495.0, 499.0, 503.0, 503.0, 503.0, 495.0, 503.0, 499.0, 503.0, 503.0, 503.0, 503.0, 499.0, 503.0, 503.0, 495.0, 495.0, 503.0, 503.0, 499.0, 503.0, 499.0, 499.0, 495.0, 503.0, 499.0, 499.0, 503.0, 499.0, 499.0, 499.0, 495.0, 495.0, 495.0, 499.0, 495.0, 495.0, 503.0, 503.0, 499.0, 503.0, 495.0, 499.0, 503.0, 495.0, 499.0, 495.0, 503.0, 499.0, 495.0, 503.0, 495.0, 503.0, 495.0, 503.0, 503.0, 495.0, 503.0, 503.0, 499.0, 495.0, 495.0, 499.0, 495.0, 503.0, 503.0, 499.0, 503.0, 503.0, 499.0, 503.0, 499.0, 503.0, 499.0, 495.0, 503.0, 495.0, 499.0, 495.0, 503.0, 503.0, 503.0, 503.0, 503.0
+Win Rate:      100/100 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+*** PASS: test_cases\q7\grade-agent.test (1 of 1 points)
+***     Grading agent using command:  python pacman.py -p PacmanQAgent -x 2000 -n 2100 -l smallGrid -q -f --fixRandomSeed
+***     100 wins (1 of 1 points)
+***         Grading scheme:
+***          < 70:  0 points
+***         >= 70:  1 points
+
+### Question q7: 1/1 ###
+
+
+Question q8
+===========
+
+*** PASS: test_cases\q8\1-tinygrid.test
+*** PASS: test_cases\q8\2-tinygrid-noisy.test
+*** PASS: test_cases\q8\3-bridge.test
+*** PASS: test_cases\q8\4-discountgrid.test
+*** PASS: test_cases\q8\5-coord-extractor.test
+
+### Question q8: 3/3 ###
+
+
+Finished at 16:07:11
+
+Provisional grades
+==================
+Question q1: 6/6
+Question q2: 1/1
+Question q3: 5/5
+Question q4: 5/5
+Question q5: 3/3
+Question q6: 1/1
+Question q7: 1/1
+Question q8: 3/3
+------------------
+Total: 25/25
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+
