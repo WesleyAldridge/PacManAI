@@ -1,10 +1,10 @@
 # AI for Pac-Man
-This project is from AI Berkeley http://ai.berkeley.edu/project_overview.html
+This project is from UC Berkeley http://ai.berkeley.edu/project_overview.html
 
 
 I completed the Search, Multi-Agent Search, and Reinforcement Learning sections.
 
-### Overview (copied from AI Berkeley):
+### Overview (copied from Berkeley):
 
 "The Pac-Man projects were developed for UC Berkeley's introductory artificial intelligence course, CS 188. They apply an array of AI techniques to playing Pac-Man. However, these projects don't focus on building AI for video games. Instead, they teach foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
 
